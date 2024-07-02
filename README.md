@@ -1,2 +1,15 @@
-# world-news-analysis
-This is a small project to fetch latest news from the internet based on the given query, additionally i have also analyzed the sentiment of the news.
+---
+title: World News Analysis
+emoji: 🌍
+colorFrom: yellow
+colorTo: blue
+sdk: streamlit
+sdk_version: 1.31.1
+app_file: app.py
+pinned: false
+license: mit
+models:
+- j-hartmann/emotion-english-distilroberta-base
+- SamLowe/roberta-base-go_emotions
+---
+

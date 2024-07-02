@@ -1,15 +1,5 @@
----
-title: World News Analysis
-emoji: 🌍
-colorFrom: yellow
-colorTo: blue
-sdk: streamlit
-sdk_version: 1.31.1
-app_file: app.py
-pinned: false
-license: mit
-models:
-- j-hartmann/emotion-english-distilroberta-base
-- SamLowe/roberta-base-go_emotions
----
+# World News Analysis
 
+This repository contains a project for fetching the latest and analyzing world news.
+
+Try out the working project [here](https://huggingface.co/spaces/HEHEBOIBOT/NewsDistil).
